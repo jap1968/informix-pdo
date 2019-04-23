@@ -1,0 +1,2 @@
+#dbservername   nettype   hostname   servicename   options
+dbservername olsoctcp  192.168.1.99  1528
